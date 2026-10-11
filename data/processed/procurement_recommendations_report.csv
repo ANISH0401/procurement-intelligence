@@ -1,0 +1,104 @@
+Priority,Part Number,Risk Trigger,Recommendation
+Critical 🔴,PN-10033-FPG,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10015-ELE,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10147-RF ,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10167-PRO,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10064-RF ,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10022-CAP,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10078-OPE,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10056-PRI,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10024-CON,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10079-LOG,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10107-POW,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10017-MIC,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10068-PRI,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+Critical 🔴,PN-10139-PRO,Class A - Single Source Supplier,Immediately initiate sourcing for a secondary supplier.
+High 🟠,PN-10015-ELE,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10056-PRI,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10083-IND,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10166-IND,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10198-CAP,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10013-FPG,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10095-OSC,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10110-RES,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10051-LOG,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10187-ELE,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10111-LOG,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10117-CON,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10108-CAP,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10009-MOS,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10046-PRI,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+High 🟠,PN-10101-OSC,Increasing Demand Trend,Review 6-month forecast with supplier to ensure capacity.
+Medium 🟡,PN-10028-MEM,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10147-RF ,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10139-PRO,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10017-MIC,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10079-LOG,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10024-CON,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10078-OPE,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10134-LOG,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10088-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10198-CAP,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10180-RF ,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10178-IND,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10092-CAP,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10192-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10130-ELE,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10186-RF ,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10184-MIC,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10027-SEN,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10119-MEM,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10000-RES,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10021-CON,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10094-CON,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10163-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10019-CON,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10002-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10167-PRO,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10040-POW,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10063-MIC,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10068-PRI,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10064-RF ,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10159-RES,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10033-FPG,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10015-ELE,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10030-MEM,Class AX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10129-MOS,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10099-PRO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10143-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10128-IND,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10007-IND,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10043-DIO,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10076-CON,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10036-POW,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10157-PRI,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Medium 🟡,PN-10185-ELE,Class BX,Negotiate long-term volume contracts (Automate replenishment).
+Low 🟢,PN-10194-CAP,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10029-FPG,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10176-CON,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10082-MOS,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10020-POW,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10144-IND,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10104-PRO,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10014-IND,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10066-OPE,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10153-RF ,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10181-MEM,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10090-RF ,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10155-PRI,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10004-MOS,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10174-CAP,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10195-SEN,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10075-RES,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10035-OPE,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10187-ELE,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10199-RES,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10018-FPG,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10109-POW,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10168-FPG,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10055-DIO,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10065-POW,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10050-RES,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10152-ANA,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10135-FPG,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
+Low 🟢,PN-10059-DIO,Class CZ (Erratic/Low Value),Shift to VMI or spot-buying to reduce holding overhead.
